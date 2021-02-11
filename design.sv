@@ -1,4 +1,3 @@
-// Code your design here
 `timescale 1ns / 1ps
 module Car_Parking(
   input clk, sensor_entrance, sensor_exit, rst,
